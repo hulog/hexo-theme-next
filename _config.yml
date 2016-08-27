@@ -124,7 +124,7 @@ social:
   #LinkLabel: Link
   github: https://github.com/hulog/
   weibo: http://weibo.com/normanjiangnan/
-  知乎: https://www.zhihu.com/people/hu-jin-run-96
+
 # Social Links Icons
 # Icon Mapping:
 #   Map a menu item to a specific FontAwesome icon name.
@@ -137,13 +137,11 @@ social_icons:
   github: github
   Twitter: twitter
   weibo: weibo
-  知乎: zhihu
-
 
 # Sidebar Avatar
 # in theme directory(source/images): /images/avatar.jpg
 # in site  directory(source/uploads): /uploads/avatar.jpg
-#avatar:
+avatar: /images/avatar.jpg
 
 
 # Table Of Contents in the Sidebar
@@ -171,8 +169,8 @@ sidebar:
   #  - always  expand for all pages automatically
   #  - hide    expand only when click on the sidebar toggle icon.
   #  - remove  Totally remove sidebar including sidebar toggler.
-  #display: post
-  display: always
+  display: post
+  #display: always
   #display: hide
   #display: remove
 
@@ -182,9 +180,10 @@ links_title: 友情链接
 #links_layout: block
 #links_layout: inline
 links:
-  baidu: http://www.baidu.com/
+  江南大学: http://www.jiangnan.edu.cn/
   lixiaolin: http://www.lixiaolin.me/
-  
+  codertian: http://www.codertian.com/
+  JThink: http://blog.csdn.net/jthink_
   #Title: http://example.com/
 
 
